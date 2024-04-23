@@ -1,0 +1,15 @@
+1.git branch  查看当前所在分支
+2.git add . 
+3.git commit -m "    本次修改名字      "
+4.git push origin 【当前分支名字】
+5.git checkout main  
+6.git pull
+7.git checkout -b 【创建一个新的分支】
+
+
+【出现】
+1.git status   检查当前状态
+2.git checkout   【】
+
+フレームワーク
+JAVAの基礎知識
